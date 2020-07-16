@@ -7,6 +7,6 @@
 <?php
 echo "Hello World!";
 ?> 
-<img src="imgtask1.s3.ap-south-1.amazonaws.com" >
+<img src="https://imgtask2.s3.ap-south-1.amazonaws.com/received_1431665540230640.jpeg" >
 </body>
 </html>
